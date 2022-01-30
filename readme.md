@@ -14,7 +14,7 @@
 
 # Details
 * Font Used : Iosevka Term SS01
-* GTK Theme : [Nordic-bluish-accent (GTK2/3) ](https://github.com/EliverLara/Nordic/releasess) . I'll call it frostneko
+* GTK Theme : [Nordic-bluish-accent (GTK2/3) ](https://github.com/EliverLara/Nordic/releasess) 
 * Icons     : [NordArc](https://www.gnome-look.org/p/1427194/)
 * OS        : Artix Linux
 * WM        : BSPWM
