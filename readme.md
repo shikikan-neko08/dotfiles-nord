@@ -47,7 +47,7 @@
 * copy powerlevel10k.zsh-theme to your powerlevel10k folder
 * copy .p10k.zsh to your home directory.
 * install the required fonts by copying .fonts directory to your home directory      
-> **Note : forttf-font-awesome, install it from your repository**          
+> **Note : for ttf-font-awesome, install it from your repository**          
 > **Arch : sudo pacman -S ttf-font-awesome**
 * copy all .config files to your .config directory
 * copy all .themes, .icons folders to your home directory
@@ -65,8 +65,6 @@ To apply The GTK Theme and icons, you can use LXappearance
 # Notes
 * If you are installing this on systemd , don't forget to change the loginctl
  command to systemctl on clearine.conf and polybar config
-* Polybar is disabled by default. to enable it run "launchbar" if you are on zsh shell. or uncomment the launch.sh on i3/config. this only affect i3 users. user that using bspwm as their default didn't need to configure this as the polybar is executed during startup
-
 
 # License
 
