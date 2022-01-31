@@ -46,11 +46,11 @@
 * Install [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 * copy powerlevel10k.zsh-theme to your powerlevel10k folder
 * copy .p10k.zsh to your home directory.
-* install the required fonts by copying .fonts directory to your home directory      
+* install the required fonts by copying .fonts directory to your home directory then extract it         
 > **Note : for ttf-font-awesome, install it from your repository**          
 > **Arch : sudo pacman -S ttf-font-awesome**
 * copy all .config files to your .config directory
-* copy all .themes, .icons folders to your home directory
+* copy all .themes, .icons folders to your home directory and extract the zip file on it
 * install oh-my zsh then manually then move .zshrc into your home directory
 * install pywal and move .cache/wal into your .cache directory
 * install [vim-plug](https://github.com/junegunn/vim-plug)
