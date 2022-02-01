@@ -5,9 +5,24 @@
 # terminal emulator
 super + Return
 	kitty
-
+# Lockscreen
 super + x
     betterlockscreen -l blur
+
+# volume control
+XF86AudioLowerVolume
+	amixer set Master 5%-
+XF86AudioRaiseVolume
+	amixer set Master 5%+
+XF86AudioMute
+        amixer set Master toggle
+
+# brightness control
+XF86MonBrightnessDown
+	xbacklight -dec 5
+XF86MonBrightnessUp
+	xbacklight -inc 5
+
 
 # program launcher
 super + @space
