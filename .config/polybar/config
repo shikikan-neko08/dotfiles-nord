@@ -59,9 +59,9 @@ module-margin-right = 2
 font-0 = Iosevka Term SS01:pixelsize=9;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
-font-3 = "Font Awesome 5 Free:style=Regular:pixelsize=10;1"
-font-4 = "Font Awesome 5 Free:style=Solid:pixelsize=10;1"
-font-5 = "Font Awesome 5 Free:pixelsize=10;1"
+font-3 = "Font Awesome 6 Free:style=Regular:pixelsize=10;1"
+font-4 = "Font Awesome 6 Free:style=Solid:pixelsize=10;1"
+font-5 = "Font Awesome 6 Free:pixelsize=10;1"
 font-6 = "SourceHanSansJP-Normal:pixelsize=10;1
 
 #modules-left = bspwm i3
@@ -119,9 +119,9 @@ module-margin-right = 2
 font-0 = Iosevka Term SS01:pixelsize=9;1
 font-1 = unifont:fontformat=truetype:size=8:antialias=false;0
 font-2 = siji:pixelsize=10;1
-font-3 = "Font Awesome 5 Free:style=Regular:pixelsize=10;1"
-font-4 = "Font Awesome 5 Free:style=Solid:pixelsize=10;1"
-font-5 = "Font Awesome 5 Free:pixelsize=10;1"
+font-3 = "Font Awesome 6 Free:style=Regular:pixelsize=10;1"
+font-4 = "Font Awesome 6 Free:style=Solid:pixelsize=10;1"
+font-5 = "Font Awesome 6 Free:pixelsize=10;1"
 font-6 = "SourceHanSansJP-Normal:pixelsize=10;1
 
 #modules-left = bspwm i3
